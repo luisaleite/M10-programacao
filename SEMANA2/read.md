@@ -16,7 +16,7 @@ Passo a Passo:
     
     e coloquei o nome “luisa” no aplicativo.
     
-    ![Untitled](imagens\Untitled (1).png)
+    ![Untitled](SEMANA2/imagens/Untitled (1).png)
     
     - Depois usei esses dois comando:
     
